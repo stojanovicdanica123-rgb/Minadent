@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stojanovicdanica123-rgb.github.io/Minadent/sitemap.xml
